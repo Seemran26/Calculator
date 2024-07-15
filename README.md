@@ -10,4 +10,4 @@
 - JavaScript
   
 ## Screenshot
-![Screenshot](https://github.com/DotSahilR/Calculator/blob/main/output.png)
+![Screenshot](https://github.com/Seemran26/Calculator/blob/main/output.png)
